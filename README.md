@@ -1,4 +1,5 @@
 # FgScript
+discord: https://discord.gg/AduzZZJNtD
 
 Welcome to this file I would like to tell you a bit about FgScript:
 
